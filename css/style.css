@@ -83,6 +83,10 @@ body {
   background-color: rgb(97, 42, 176);
 }
 
+#particles-js{
+  height: 100%;
+}
+
 .glow {
   font-size: 80px;
   color: #fff;
