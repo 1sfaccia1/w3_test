@@ -11,6 +11,12 @@ body {
 
 }
 
+img {
+    width: 100%;
+    height: auto;
+}
+
+
 .container1{
   margin: 0;
   padding: 0 20px;
@@ -117,7 +123,7 @@ body {
 
 /* Fake image */
 .fakeimg {
-  background-color: #aaa;
+  background-color: rgb(18, 43, 131);
   width: 100%;
   padding: 20px;
   overflow: hidden;
