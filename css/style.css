@@ -8,16 +8,19 @@
 body {
   font-family: "Comic Sans MS", cursive, sans-serif;
   background-color: rgb(97, 42, 176);
-
 }
 
 img {
-    width: 100%;
-    height: auto;
+  width: 100%;
+  height: auto;
 }
 
+iframe {
+  width: 100%;
+  height: auto;
+}
 
-.container1{
+.container1 {
   margin: 0;
   padding: 0 20px;
 }
@@ -41,7 +44,7 @@ img {
 
 /* Navbar links on mouse-over */
 .topnav a:hover {
-  background-color:  #ff4da6;
+  background-color: #ff4da6;
   color: black;
 }
 
@@ -79,7 +82,6 @@ img {
   border: none;
   cursor: pointer;
   border-radius: 4px;
-
 }
 
 .topnav .login-container button:hover {
@@ -94,7 +96,7 @@ img {
   background-color: rgb(97, 42, 176);
 }
 
-#particles-js{
+#particles-js {
   height: 400px;
 }
 
@@ -128,6 +130,15 @@ img {
   padding: 20px;
   overflow: hidden;
   min-height: 200px;
+}
+
+.fakeimg2 {
+  background-color: rgb(18, 43, 131);
+  width: 100%;
+  padding: 7px 7px 3px 7px;
+  margin: 0;
+  overflow: hidden;
+  height: auto;
 }
 
 /* Add a card effect for articles */
@@ -233,8 +244,6 @@ img {
   color: grey;
   font-size: 18px;
 }
-
-
 
 a {
   text-decoration: none;
