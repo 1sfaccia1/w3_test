@@ -6,8 +6,9 @@
 
 /*blog form*/
 body {
-  font-family: Arial;
-  background: #f1f1f1;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  background-color: rgb(97, 42, 176);
+
 }
 
 .container1{
@@ -18,14 +19,14 @@ body {
 /* Style the navbar */
 .topnav {
   overflow: hidden;
-  background-color: #e9e9e9;
+  background-color: #000;
 }
 
 /* Navbar links */
 .topnav a {
   float: left;
   display: block;
-  color: black;
+  color: rgb(22, 69, 249);
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -34,7 +35,7 @@ body {
 
 /* Navbar links on mouse-over */
 .topnav a:hover {
-  background-color: #ddd;
+  background-color:  #ff4da6;
   color: black;
 }
 
@@ -56,6 +57,7 @@ body {
   font-size: 17px;
   border: none;
   width: 150px;
+  border-radius: 4px;
   /* adjust as needed (as long as it doesn't break the topnav) */
 }
 
@@ -65,10 +67,13 @@ body {
   padding: 6px;
   margin-top: 8px;
   margin-right: 16px;
+  margin-left: 4px;
   background: #ddd;
   font-size: 17px;
   border: none;
   cursor: pointer;
+  border-radius: 4px;
+
 }
 
 .topnav .login-container button:hover {
@@ -121,7 +126,7 @@ body {
 
 /* Add a card effect for articles */
 .card {
-  background-color: white;
+  background-color: #be206c;
   padding: 20px;
   margin-top: 20px;
   overflow: hidden;
@@ -146,8 +151,9 @@ body {
 .footer {
   padding: 20px;
   text-align: center;
-  background: #ddd;
+  background: #000;
   margin-top: 20px;
+  color: white;
 }
 
 /*user Rating*/
@@ -180,7 +186,7 @@ body {
 /* The bar container */
 .bar-container {
   width: 100%;
-  background-color: #f1f1f1;
+  background-color: rgb(119, 46, 87);
   text-align: center;
   color: white;
 }
@@ -189,7 +195,7 @@ body {
 .bar-5 {
   width: 60%;
   height: 18px;
-  background-color: #4CAF50;
+  background-color: rgb(6, 244, 53);
 }
 
 .bar-4 {
