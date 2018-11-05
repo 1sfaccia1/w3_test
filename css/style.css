@@ -93,7 +93,7 @@ iframe {
   padding: 30px;
   font-size: 40px;
   text-align: center;
-include background-image:linear-gradient(top, #3b679e 0%,#207cca 57%,#2b88d9 57%,#000000 100%,#7db9e8 100%);
+  background-image:linear-gradient(top, #3b679e 0%,#207cca 57%,#2b88d9 57%,#000000 100%,#7db9e8 100%);
 }
 
 #particles-js {
