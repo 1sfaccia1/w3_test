@@ -1,14 +1,14 @@
 {
   "name": "w3_test",
   "version": "1.0.0",
-  "description": "pratice\u001b[D\u001b[D\u001b[D\u001b[Dc\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[C\u001b[3test",
+  "description": "pratice test",
   "main": "index.js",
   "dependencies": {
     "particlesjs": "^2.2.3"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Capp.js\u001b[B\u001b[B\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C"
+    "test":
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
     "test"
   ],
   "author": "Chad Wittman",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/1sfaccia1/w3_test/issues"
   },

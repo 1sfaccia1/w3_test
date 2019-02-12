@@ -93,7 +93,8 @@ iframe {
   padding: 30px;
   font-size: 40px;
   text-align: center;
-  background-image:linear-gradient(top, #3b679e 0%,#207cca 57%,#2b88d9 57%,#000000 100%,#7db9e8 100%);
+  background-image:linear-gradient(top, #45484d 1%,#000000 60%,#000000 60%,#000000 60%,#000000 60%,#000000 68%);
+  background-size: contain;
 }
 
 #particles-js {
@@ -130,6 +131,7 @@ iframe {
   padding: 20px;
   overflow: hidden;
   min-height: 200px;
+  border-radius: 5px;
 }
 
 .fakeimg2 {
@@ -139,6 +141,8 @@ iframe {
   margin: 0;
   overflow: hidden;
   height: auto;
+  border-radius: 5px;
+
 }
 
 /* Add a card effect for articles */
@@ -148,6 +152,9 @@ iframe {
   margin-top: 20px;
   overflow: hidden;
   width: 100%;
+  border-radius: 5px;
+  border: 1px solid #000;
+
 
 }
 

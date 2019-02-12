@@ -1,4 +1,4 @@
-particlesJS.load('particles', './particles.json';
+particlesJS.load('particles', './particles.json');
 /*
 
 
